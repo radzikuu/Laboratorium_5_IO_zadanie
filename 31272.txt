@@ -1,1 +1,1 @@
-Rozwiązywanie problemu z plikiem 31272.txt
+Galaz test_branch modyfikuje plik tekstowy
