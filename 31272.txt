@@ -1,1 +1,3 @@
 Galaz test_branch modyfikuje plik tekstowy
+
+Zmodyfikowano plik z poziomu VS Code poprzez kliknięcie .
